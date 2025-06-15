@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1749955282448,
+      "tag": "0000_spotty_senator_kelly",
+      "breakpoints": true
+    }
+  ]
+}
